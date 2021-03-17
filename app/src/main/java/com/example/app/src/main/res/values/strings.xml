@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Movies</string>
+    <string name="movie_image">Movie Image</string>
+    <string name="title">Title: </string>
+    <string name="overview">OverView: </string>
+    <string name="rating">Rating: </string>
+    <string name="api_key">ae05a6260ca61f946d7b7c2d0d8e377f</string>
+    <string name="popular_movies">Popular Movies</string>
+    <string name="upcoming_movies">Upcoming Movies</string>
+    <string name="popular">Popular</string>
+    <string name="upcoming">Upcoming</string>
+    <string name="movies">movies</string>
+    <string name="now_playing">Now Playing</string>
+    <string name="top_rated">Top Rated</string>
+
+
+</resources>
